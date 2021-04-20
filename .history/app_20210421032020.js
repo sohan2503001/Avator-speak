@@ -9,7 +9,9 @@ function getTranslationURL(text) {
 }
 
 function clickHandler() {
+    //outputDiv.innerHTML = "shgshdgshdsahd " + txtInput.value
     var inputText = txtInput.value;
+
     fetch(getTranslationURL(inputText))
         .then(response => response.json())
         .then(json => {
