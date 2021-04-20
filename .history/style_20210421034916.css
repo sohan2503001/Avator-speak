@@ -1,10 +1,10 @@
 :root{
     --primary-color:#EF4444;
-    --width-break:600px
 }
 
 body{
     margin: 0;
+
 }
 
 /**header**/
@@ -34,8 +34,7 @@ textarea{
     border: none;
     color: white;
     box-sizing: border-box;
-    display: inline-block;
-    text-align: center;
+    display: ;
 }
 
 #output{

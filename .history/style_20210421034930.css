@@ -1,10 +1,10 @@
 :root{
     --primary-color:#EF4444;
-    --width-break:600px
 }
 
 body{
     margin: 0;
+
 }
 
 /**header**/

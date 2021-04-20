@@ -1,10 +1,10 @@
 :root{
     --primary-color:#EF4444;
-    --width-break:600px
 }
 
 body{
     margin: 0;
+
 }
 
 /**header**/
@@ -29,13 +29,14 @@ textarea{
 
 #btn-translate{
     padding: 1rem 2rem;
+    width: 200px;
     margin: 1rem 0rem;
+    left: 250px;
+    position: relative;
     background-color: var(--primary-color);
     border: none;
     color: white;
-    box-sizing: border-box;
-    display: inline-block;
-    text-align: center;
+    
 }
 
 #output{

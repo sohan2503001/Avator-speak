@@ -1,0 +1,30 @@
+:root{
+    --primary-color:#EF4444;
+}
+
+body{
+    mar
+}
+
+/**header**/
+h1{
+    background-color: var(--primary-color);
+    margin: auto;
+}
+
+
+textarea{
+    width: 80%;
+    height: 10vh;
+    display: block;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+#output{
+    border: 1px solid black;
+    height: 10vh;
+    width: 80%;
+    margin: 1rem;
+    padding: 1rem;
+}
