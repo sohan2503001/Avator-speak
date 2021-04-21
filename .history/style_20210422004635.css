@@ -55,7 +55,7 @@ textarea{
     margin-top: 2rem;
     font-family: inherit;
     font-size: large;
-    border-radius: 15px;
+    border-radius: 25px;
     border: 2px solid black;
     box-shadow: 8px 8px 5px grey;
     background-color: var(--tertiary-color);
@@ -69,7 +69,6 @@ textarea{
     color: var(--secondary-color);
     font-family: 'Ubuntu' , cursive;
     font-size: large;
-    border-radius: 15px;
 }
 
 #output{
@@ -79,9 +78,7 @@ textarea{
     max-height: 25vh;
     width: 100%;
     font-size: large;
-    border-radius: 15px;
     box-shadow: 8px 8px 5px grey;
-    background-color: var(--tertiary-color);
 }
 
 /**footer**/

@@ -69,7 +69,6 @@ textarea{
     color: var(--secondary-color);
     font-family: 'Ubuntu' , cursive;
     font-size: large;
-    border-radius: 15px;
 }
 
 #output{
@@ -81,7 +80,6 @@ textarea{
     font-size: large;
     border-radius: 15px;
     box-shadow: 8px 8px 5px grey;
-    background-color: var(--tertiary-color);
 }
 
 /**footer**/
