@@ -1,9 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital@1&display=swap');
 
 :root{
-    --primary-color:#3B82F6;
-    --width-break:600px;
-    --secondary-color:white;
+    --primary-color:#EF4444;
+    --width-break:600px
 }
 
 body{
@@ -20,7 +19,7 @@ nav{
 .head{
     font-size: 2rem;
     padding: 1rem;
-    color: var(--secondary-color);
+    color: white;
 }
 
 /**Center**/
@@ -45,7 +44,7 @@ textarea{
     margin: 1rem 0rem;
     background-color: var(--primary-color);
     border: none;
-    color: var(--secondary-color);
+    color: white;
     font-family: 'Ubuntu' , cursive;
     font-size: large;
 }
@@ -65,16 +64,14 @@ footer{
     margin: 0;
     padding: 1rem;
     width: 100%;
-    bottom: 0;
+    bo
     text-align: center;
 }
 
 .footer h3{
-    color: var(--secondary-color);
+    color: white;
 }
 
 footer p{
-    color: var(--secondary-color);
-    margin: auto;
-    max-width: var(--width-break);
+    color: white;
 }

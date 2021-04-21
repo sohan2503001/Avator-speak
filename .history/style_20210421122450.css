@@ -2,8 +2,8 @@
 
 :root{
     --primary-color:#3B82F6;
-    --width-break:600px;
-    --secondary-color:white;
+    --width-break:600px
+    --secondary-color:#EF4444;
 }
 
 body{
@@ -20,7 +20,7 @@ nav{
 .head{
     font-size: 2rem;
     padding: 1rem;
-    color: var(--secondary-color);
+    color: var(--se);
 }
 
 /**Center**/
@@ -45,7 +45,7 @@ textarea{
     margin: 1rem 0rem;
     background-color: var(--primary-color);
     border: none;
-    color: var(--secondary-color);
+    color: var(--se);
     font-family: 'Ubuntu' , cursive;
     font-size: large;
 }
@@ -70,11 +70,11 @@ footer{
 }
 
 .footer h3{
-    color: var(--secondary-color);
+    color: var(--se);
 }
 
 footer p{
-    color: var(--secondary-color);
+    color: var(--se);
     margin: auto;
     max-width: var(--width-break);
 }
