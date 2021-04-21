@@ -36,13 +36,8 @@ main{
 }
 
 img{
-    position: absolute;
-    height: 13rem;
-    width: 13rem;
-    border-radius: 15rem;
-    border: none;
-    left: 8%;
-    top: 25%;
+    height: 250px;
+    width: 250px;
 }
 
 textarea{

@@ -5,7 +5,7 @@
 }
 
 :root{
-    --primary-color:#1E40AF;
+    --primary-color:#3B82F6;
     --width-break:600px;
     --secondary-color:white;
 }
@@ -35,22 +35,12 @@ main{
     max-width: var(--width-break);
 }
 
-img{
-    position: absolute;
-    height: 13rem;
-    width: 13rem;
-    border-radius: 15rem;
-    border: none;
-    left: 8%;
-    top: 25%;
-}
-
 textarea{
     box-sizing: border-box;
     width: 100%;
     min-height: 20vh;
     display: block;
-    margin-top: 2rem;
+    margin-top: 1.5rem;
     font-family: inherit;
     font-size: large;
 }
@@ -78,7 +68,7 @@ textarea{
 footer{
     background-color: var(--primary-color);
     margin: 0;
-    padding: 1rem;
+    padding: 0.8rem;
     width: 100%;
     bottom: 0;
     text-align: center;

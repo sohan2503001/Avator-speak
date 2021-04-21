@@ -35,22 +35,12 @@ main{
     max-width: var(--width-break);
 }
 
-img{
-    position: absolute;
-    height: 13rem;
-    width: 13rem;
-    border-radius: 15rem;
-    border: none;
-    left: 8%;
-    top: 25%;
-}
-
 textarea{
     box-sizing: border-box;
     width: 100%;
     min-height: 20vh;
     display: block;
-    margin-top: 2rem;
+    margin-top: 1.5rem;
     font-family: inherit;
     font-size: large;
 }

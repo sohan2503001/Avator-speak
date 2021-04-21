@@ -35,14 +35,15 @@ main{
     max-width: var(--width-break);
 }
 
+.images{
+    max-width: 200px;
+}
+
 img{
-    position: absolute;
-    height: 13rem;
-    width: 13rem;
+    height: auto;
+    width: 100%;
     border-radius: 15rem;
     border: none;
-    left: 8%;
-    top: 25%;
 }
 
 textarea{

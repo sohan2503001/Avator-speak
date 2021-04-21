@@ -1,11 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital@1&display=swap');
 
-* {
-    box-sizing: border-box;
-}
-
 :root{
-    --primary-color:#1E40AF;
+    --primary-color:#3B82F6;
     --width-break:600px;
     --secondary-color:white;
 }
@@ -19,7 +15,7 @@ body{
 nav{
     background-color: var(--primary-color);
     text-align: center;
-    margin: 0;
+    mar
 }
 
 .head{
@@ -33,16 +29,6 @@ main{
     margin: auto;
     padding: 1rem;
     max-width: var(--width-break);
-}
-
-img{
-    position: absolute;
-    height: 13rem;
-    width: 13rem;
-    border-radius: 15rem;
-    border: none;
-    left: 8%;
-    top: 25%;
 }
 
 textarea{
@@ -78,7 +64,7 @@ textarea{
 footer{
     background-color: var(--primary-color);
     margin: 0;
-    padding: 1rem;
+    padding: 0.8rem;
     width: 100%;
     bottom: 0;
     text-align: center;
